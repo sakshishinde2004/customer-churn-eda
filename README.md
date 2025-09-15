@@ -1,4 +1,3 @@
-[Readme.md](https://github.com/user-attachments/files/22350383/Readme.md)
 # Churn Analysis 📊
 
 This repository contains a **Customer Churn Analysis** project built using Python and Jupyter Notebook. The goal of this analysis is to understand customer behavior, identify patterns of churn, and provide actionable insights to reduce customer attrition.  
@@ -16,7 +15,6 @@ This repository contains a **Customer Churn Analysis** project built using Pytho
 ## 📂 Repository Contents
 - `ChurnAnalysis.ipynb` → Jupyter Notebook containing full analysis, EDA, and visualizations.  
 - `README.md` → Documentation for the project.  
-- `requirements.txt` → List of dependencies to run the notebook.  
 
 ---
 
