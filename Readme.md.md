@@ -15,7 +15,6 @@ This repository contains a **Customer Churn Analysis** project built using Pytho
 ## 📂 Repository Contents
 - `ChurnAnalysis.ipynb` → Jupyter Notebook containing full analysis, EDA, and visualizations.  
 - `README.md` → Documentation for the project.  
-- `requirements.txt` → List of dependencies to run the notebook.  
 
 ---
 
