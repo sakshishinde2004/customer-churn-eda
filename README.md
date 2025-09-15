@@ -72,4 +72,3 @@ This repository contains a **Customer Churn Analysis** project built using Pytho
 ## 👩‍💻 Author
 **Sakshi Shinde**  
 - GitHub: [sakshishinde2004](https://github.com/sakshishinde2004)  
-- LinkedIn: (Add your LinkedIn here)  
